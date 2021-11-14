@@ -37,7 +37,7 @@ table.job-listing td:first-child {
 table.job-listing td:last-child {
     font-family: Georgia, serif;
     font-weight: bold;
-    letter-spacing: .15rem;
+    letter-spacing: .12em;
     width: 80%;
 
 }
