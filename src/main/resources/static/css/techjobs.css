@@ -30,11 +30,16 @@ table.job-listing {
 }
 
 table.job-listing td:first-child {
-    font-weight: bold;
-}
+    font-family: sans-serif;
+    font-variant: small-caps;
+    }
 
 table.job-listing td:last-child {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    letter-spacing: .15rem;
     width: 80%;
+
 }
 
 label {
